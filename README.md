@@ -1,2 +1,2 @@
 # TitanicKaggle
-Revision of kaggle datasers
+Revision of kaggle dataset
